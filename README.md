@@ -1,0 +1,3 @@
+Trying to control AD5932 Wave Generator to output waveforms of different frequencys with Arduino Leonardo.
+
+But, it doesn't work so far...
